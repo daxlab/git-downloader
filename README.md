@@ -3,7 +3,7 @@ A small utility to download individual files from a github repo.
 
 ## Usage
 
-python main.py -u http://github.com/daxlab/node-while-loop/blob/master/package.json
+```python main.py -u http://github.com/daxlab/node-while-loop/blob/master/package.json```
 
 ## TODO's
 
